@@ -1,0 +1,9 @@
+{
+  "name": "@renovate-yarn-repro/package-2",
+  "version": "0.0.0-development",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@types/express": "^4.17.16"
+  }
+}

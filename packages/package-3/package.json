@@ -1,0 +1,10 @@
+{
+  "name": "@renovate-yarn-repro/package-3",
+  "version": "0.0.0-development",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@renovate-yarn-repro/package-1": "workspace:^",
+    "@renovate-yarn-repro/package-2": "workspace:^"
+  }
+}
