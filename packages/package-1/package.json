@@ -4,6 +4,6 @@
   "license": "UNLICENSED",
   "private": true,
   "devDependencies": {
-    "@types/express": "*"
+    "@types/express": "^4.17.15"
   }
 }
